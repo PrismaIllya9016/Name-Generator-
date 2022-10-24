@@ -1,15 +1,10 @@
-/* eslint-disable */
 import "bootstrap";
 import "./style.css";
 
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
-
 window.onload = function() {
-  //write your code here
-  let con1 = ["lava", "world", "fancy", "twist"];
-  let con2 = ["con", "gate", "fit", "push"];
-  let con3 = [".com", ".net", ".edu", ".org"];
+  let con1 = ["ready", "super", "great", "giga"];
+  let con2 = ["cold", "happy", "honest9", "very"];
+  let con3 = [".com", ".net", ".edu", ".org", ".io"];
 
   let textoh1 = document.querySelector("#domain");
 
